@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tests
+title: Posts
 has_children: true
 nav_order: 100
 ---
