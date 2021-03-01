@@ -21,4 +21,4 @@ permalink: /
 | Logistics and Supply Chain MultiTech R&D Center | Summer Intern | Hong Kong <br> June 2019-Aug 2019 |  
 | First Code Academy | Summer Intern | Hong Kong <br> June 2018-Aug 2018 |
 
-[<img src="assets/images/gScholar.svg" style="width: 20px">](http://google.com/)
+<center>[<img src="assets/images/gScholar.svg" style="width: 40px">](https://scholar.google.com/citations?user=FmZEBUoAAAAJ&hl=en&oi=ao)</center>
