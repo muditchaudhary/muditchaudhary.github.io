@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://muditchaudhary.github.io/</loc>
+  <lastmod>2021-03-01T14:59:58+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://muditchaudhary.github.io/muditchaudhary.github.io/</loc>
+  <lastmod>2021-03-01T14:59:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://muditchaudhary.github.io/muditchaudhary.github.io/docs/Posts/</loc>
+  <lastmod>2021-03-01T14:59:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://muditchaudhary.github.io/muditchaudhary.github.io/docs/Projects/</loc>
+  <lastmod>2021-03-01T14:59:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://muditchaudhary.github.io/muditchaudhary.github.io/docs/Publications/</loc>
+  <lastmod>2021-03-01T14:59:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://muditchaudhary.github.io/muditchaudhary.github.io/docs/Recent%20News/</loc>
+  <lastmod>2021-03-01T14:59:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://muditchaudhary.github.io/muditchaudhary.github.io/docs/Documents/</loc>
+  <lastmod>2021-03-01T14:59:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://muditchaudhary.github.io/muditchaudhary.github.io/docs/Contact/</loc>
+  <lastmod>2021-03-01T14:59:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://muditchaudhary.github.io/assets/documents/Poster_DSTC9_AAAI21.pdf</loc>
+  <lastmod>2021-03-01T14:59:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://muditchaudhary.github.io/assets/documents/Mudit_CV010321.pdf</loc>
+  <lastmod>2021-03-01T14:59:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
