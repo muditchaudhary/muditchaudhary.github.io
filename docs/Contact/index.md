@@ -2,7 +2,7 @@
 layout: default
 title: Contact
 has_children: false
-nav_order: 4
+nav_order: 5
 ---
 
 __Email__: muditchaudhary [at] cuhk [dot] edu [dot] hk ; muditchaudhary7 [at] gmail [dot] com
