@@ -14,7 +14,7 @@ permalink: /
 
 | Institution        | Degree         | Place and Year |
 |:-------------|:------------------|:------|
-| ok           | good swedish <br> fish | nice  |
+| The Chinese University of Hong Kong           | Bachelor of Science <br> <b>Major:</b> Computer Science <br> <b>Specialization: </b> Computer Science <br> <b>Minor:</b> Data Analytics and Informatics | Hong Kong <br> 2016-2020  |
 | out of stock | good and <b> plenty </b>   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
