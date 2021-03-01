@@ -9,6 +9,14 @@ permalink: /
 
 ## Education  
 
-| Institution        | Degree         | Place and Year |
+| Institution        | Degree         | Place and Years |
 |:-----------------|:------------------|:------:|
 | The Chinese University of Hong Kong           | Bachelor of Science <br> <b>Major:</b> Computer Science <br> <b>Specialization: </b> Intelligent Science <br> <b>Minor:</b> Data Analytics and Informatics | Hong Kong <br> 2016-2020  |  
+
+## Work Experience  
+
+| Company/Institution        | Position         | Place and Years |
+|:-----------------|:------------------|:------:|
+| The Chinese University of Hong Kong           | Full-time Research Assistant | Hong Kong <br> Aug 2020-Present  |  
+| Logistics and Supply Chain MultiTech R&D Center | Summer Intern | Hong Kong <br> June 2019-Aug 2019 |  
+| First Code Academy | Summer Intern | Hong Kong <br> June 2018-Aug 2018 |
