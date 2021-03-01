@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="727c0230-7980-4d42-9cbc-03014dd755b9" name="Default Changelist" comment="Fix" />
+    <list id="c2a07b01-e784-45a0-8743-11e37222a346" name="Revert &quot;Add layout and scss&quot;" comment="Revert &quot;Add layout and scss&quot;&#10;&#10;This reverts commit 1c82707d" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1p8cLDsFhnrqxwmT1QO1VBD4Zc7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="$PROJECT_DIR$/node_modules/stylelint" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="727c0230-7980-4d42-9cbc-03014dd755b9" name="Default Changelist" comment="" />
+      <created>1614568100207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614568100207</updated>
+      <workItem from="1614568103995" duration="136000" />
+      <workItem from="1614568338924" duration="2308000" />
+    </task>
+    <task id="LOCAL-00001" summary="Change ReadMe">
+      <created>1614568415863</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614568415863</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Modify Index">
+      <created>1614568733148</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614568733148</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Modify and remove redundant files">
+      <created>1614569003889</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614569003889</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add favicon.ico">
+      <created>1614569367421</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614569367421</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Remove redundant files">
+      <created>1614570026627</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1614570026627</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Test">
+      <created>1614570223236</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1614570223236</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add _includes">
+      <created>1614570461194</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1614570461194</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add layout and scss">
+      <created>1614570614723</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1614570614723</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Revert &quot;Remove redundant files&quot;&#10;&#10;This reverts commit 49a9e574">
+      <created>1614571081731</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1614571081731</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Fix">
+      <created>1614571272988</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1614571272988</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Change ReadMe" />
+    <MESSAGE value="Modify Index" />
+    <MESSAGE value="Modify and remove redundant files" />
+    <MESSAGE value="Add favicon.ico" />
+    <MESSAGE value="Remove redundant files" />
+    <MESSAGE value="Test" />
+    <MESSAGE value="Add _includes" />
+    <MESSAGE value="Add layout and scss" />
+    <MESSAGE value="Revert &quot;Remove redundant files&quot;&#10;&#10;This reverts commit 49a9e574" />
+    <MESSAGE value="Fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix" />
+  </component>
+</project>
