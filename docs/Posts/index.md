@@ -12,11 +12,11 @@ nav_order: 100
 The default configuration does not include the test pages. To include them, *commment-out* the following line in `_config.yml`:
 
 ```yaml
-, "docs/tests/"
+, "docs/Posts/"
 ```
 so that it is:
 ```yaml
-# , "docs/tests/"
+# , "docs/Posts/"
 ```
 
 (Apparently Jekyll's `include` does *not* override `exclude`  for the same folder...)
