@@ -2,7 +2,7 @@
 layout: default
 title: Disambiguation 
 parent: Navigation
-grand_parent: Tests
+grand_parent: Posts
 ---
 
 # Disambiguation

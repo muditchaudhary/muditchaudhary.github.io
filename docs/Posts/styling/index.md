@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Styling
-parent: Tests
+parent: Posts
 has_children: true
 ---
 
