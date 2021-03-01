@@ -20,3 +20,5 @@ permalink: /
 | The Chinese University of Hong Kong           | Full-time Research Assistant | Hong Kong <br> Aug 2020-Present  |  
 | Logistics and Supply Chain MultiTech R&D Center | Summer Intern | Hong Kong <br> June 2019-Aug 2019 |  
 | First Code Academy | Summer Intern | Hong Kong <br> June 2018-Aug 2018 |
+
+[<img src="assets/images/gScholar.svg" style="width: 20px">](http://google.com/)
