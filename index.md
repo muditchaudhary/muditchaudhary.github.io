@@ -5,4 +5,4 @@ nav_order: 1
 description: "Mudit's personal website"
 permalink: /
 ---
-| ![Me](./me.jpg =200) | __Mudit Chaudhary__ |
+| ![Me](./me.jpg =200x) | __Mudit Chaudhary__ |
