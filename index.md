@@ -15,6 +15,6 @@ permalink: /
 | Institution        | Degree         | Place and Year |
 |:-------------|:------------------|:------|
 | ok           | good swedish <br> fish | nice  |
-| out of stock | good and plenty   | nice  |
+| out of stock | good and <b> plenty </b>   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
