@@ -71,7 +71,7 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # Footer content
 # appears at the bottom of every page's main content
-footer_content: "<div align=\"right\"> <a href=\"https://scholar.google.com/citations?user=FmZEBUoAAAAJ&hl=en&oi=ao\"><img src=\"assets/images/gScholar.svg\" style=\"width: 40px;\"></a>   <a href=\"https://www.linkedin.com/in/muditchaudhary/\"><img src=\"assets/images/LinkedIn.png\" style=\"width: 40px\"></a> <a href=\"https://www.github.com/muditchaudhary\"><img src=\"assets/images/github.png\" style=\"width: 40px;\"></a> </div>"
+
 # Back to top link
 back_to_top: true
 back_to_top_text: "Back to top"
