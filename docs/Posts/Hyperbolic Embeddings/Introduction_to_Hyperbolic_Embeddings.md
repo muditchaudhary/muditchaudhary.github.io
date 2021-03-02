@@ -1,10 +1,8 @@
 ---
 layout: default
 title: Introduction to Hyperbolic Embeddings
-has_children: true
 nav_order: 2
 parent: Hyperbolic Embeddings
-has_toc:false
 grand_parent: Posts
 ---
 
