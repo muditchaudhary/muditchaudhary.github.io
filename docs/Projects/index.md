@@ -7,6 +7,9 @@ nav_order: 3
 ## Table of contents
 {: .no_toc .text-delta }
 
+1. TOC
+{:toc}
+
 ### RepPoints-x-Libra-R-CNN-x-Transformer-self-attention  
 __Description:__ 
 This project builds upon the RepPoints model by [Yang et. al](https://arxiv.org/abs/1904.11490). We balance the training of the model using Libra R-CNN and then further improve the performance using Transformer Attention.
