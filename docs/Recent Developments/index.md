@@ -5,7 +5,8 @@ has_children: false
 nav_order: 3
 ---
 
-## Recent Developments  
+# Recent Developments  
+
 ### 2021
 * Poster Presentation at Dialog State Technology Challenge 9 (DSTC9) Workshop at AAAI-21 Conference  
 
