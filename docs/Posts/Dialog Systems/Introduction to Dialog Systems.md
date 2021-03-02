@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Introduction to Hyperbolic Embeddings
+title: Introduction to Dialog Systems
 nav_order: 2
-parent: Hyperbolic Embeddings
+parent: Dialog Systems
 grand_parent: Posts
 ---
 
@@ -10,7 +10,7 @@ __Dummy Post__
 __Under Construction__
 
 
-# Introduction to Hyperbolic Embeddings
+# Introduction to Dialog Systems
 {: .no_toc }
 
 ## Table of contents

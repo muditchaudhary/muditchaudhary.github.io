@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hyperbolic Embeddings
+title: Dialog Systems
 has_children: true
 nav_order: 2
 has_toc: true
