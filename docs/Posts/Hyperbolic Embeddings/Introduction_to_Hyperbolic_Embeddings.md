@@ -10,10 +10,13 @@ grand_parent: Posts
 Under Construction Introduction test1
 
 
-# Introduction to Hyperbolic Embeddings
-{: .no_toc}  
+# Color Utilities
+{: .no_toc }
 
-1.TOC
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
 {:toc}
 
 ## Defintion
