@@ -3,14 +3,18 @@ layout: default
 title: Introduction to Hyperbolic Embeddings
 has_children: true
 nav_order: 2
-has_toc: true
 parent: Hyperbolic Embeddings
 grand_parent: Posts
 ---
 
 Under Construction Introduction
 
+
 # Introduction to Hyperbolic Embeddings
+{: .no_toc}  
+
+1.TOC
+{:toc}
 
 ## Defintion
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a eros efficitur dolor suscipit vulputate. Curabitur malesuada ex vestibulum justo semper vestibulum. In sit amet tincidunt ipsum, et rutrum lectus. Donec vitae interdum elit. Vestibulum consectetur auctor libero a pharetra. Sed nisi ex, accumsan sed augue quis, porttitor varius ligula. Etiam ut malesuada diam. Vestibulum rutrum ut urna sit amet congue. Vestibulum maximus at dui quis pretium. Curabitur porttitor sit amet eros sed maximus.  
