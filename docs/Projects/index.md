@@ -3,6 +3,8 @@ layout: default
 title: Projects
 nav_order: 3
 ---
+# Projects
+{: .no_toc }
 
 ## Table of contents
 {: .no_toc .text-delta }
