@@ -69,8 +69,8 @@ aux_links_new_tab: false
 # nav_sort: case_insensitive # default, equivalent to nil
 nav_sort: case_sensitive # Capital letters sorted before lowercase
 
-ga_tracking: UA-190988767-1
-ga_tracking_anonymize_ip: true
+#ga_tracking: UA-190988767-1
+#ga_tracking_anonymize_ip: true
 
 # Footer content
 # appears at the bottom of every page's main content
