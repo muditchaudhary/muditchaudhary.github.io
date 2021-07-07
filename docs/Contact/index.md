@@ -6,7 +6,7 @@ nav_order: 6
 ---
 # Contact
 
-__Email__: muditchaudhary [at] cuhk [dot] edu [dot] hk ; muditchaudhary7 [at] gmail [dot] com
+__Email__: muditchaudhary@link.cuhk.edu.hk ; muditchaudhary7@gmail.com
 
 __LinkedIn__: [https://www.linkedin.com/in/muditchaudhary/](https://www.linkedin.com/in/muditchaudhary/)  
 
