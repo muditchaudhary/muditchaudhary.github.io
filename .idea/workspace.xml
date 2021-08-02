@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="727c0230-7980-4d42-9cbc-03014dd755b9" name="Default Changelist" comment="Revert" />
+    <list default="true" id="727c0230-7980-4d42-9cbc-03014dd755b9" name="Default Changelist" comment="Revert">
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/Posts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.path.for.package.stylelint" value="project" />
     <property name="node.js.selected.package.stylelint" value="$PROJECT_DIR$/node_modules/stylelint" />
@@ -66,6 +68,7 @@
       <workItem from="1614757322498" duration="860000" />
       <workItem from="1615367370741" duration="294000" />
       <workItem from="1618148517970" duration="1042000" />
+      <workItem from="1627912311355" duration="111000" />
     </task>
     <task id="LOCAL-00096" summary="Add Contact">
       <created>1614602244956</created>

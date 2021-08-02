@@ -5,12 +5,13 @@ nav_order: 1
 description: "Mudit Chaudhary's personal website"
 permalink: /
 ---
-|<img src="./me.png" alt="Me" align="left" style="padding: 0px; width: 1000px;" /> | <b><font size="5">Mudit Chaudhary</font></b> <br> Full-time Research Assistant at the Chinese University of Hong Kong. Research interests include NLP (Dialog Systems, Word Embeddings), and Computer Vision (Object Detection Models). <br> Experienced in machine learning model development & serving, API development and scaling to production.|  
+|<img src="./me.png" alt="Me" align="left" style="padding: 0px; width: 1000px;" /> | <b><font size="5">Mudit Chaudhary</font></b> <br> Full-time Research Assistant at the Chinese University of Hong Kong. Research interests include NLP (Dialog Systems, Word Embeddings), and Computer Vision (Object Detection Models). <br> Experienced in machine learning model development & serving, API development and scaling to production. <br> Incoming graduate student at UMass Amherst.|  
 
 ## Education  
 
 | Institution        | Degree         | Place and Years |
 |:-----------------|:------------------|:------:|
+| University of Massachusetts, Amherst                 | Master of Science <br> <b>Major:</b> Computer Science  | Amherst, MA, USA <br> 2021-2023  |  
 | The Chinese University of Hong Kong (CUHK)           | Bachelor of Science <br> <b>Major:</b> Computer Science <br> <b>Specialization: </b> Intelligent Science <br> <b>Minor:</b> Data Analytics and Informatics | Hong Kong <br> 2016-2020  |  
 
 ## Work Experience  
