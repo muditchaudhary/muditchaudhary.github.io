@@ -22,5 +22,6 @@ permalink: /
 | Logistics and Supply Chain MultiTech (LSCM) R&D Center | Summer Intern | <b>Hong Kong</b> <br> June 2019-Aug 2019 |  
 | First Code Academy | Summer Intern | <b>Hong Kong</b> <br> June 2018-Aug 2018 |
 
-<a href="https://muditchaudhary.github.io/docs/Documents%20(C.V.,%20Resume)/"> See Curriculum vitae or résumé </a>
+[See Curriculum vitae or résumé](https://muditchaudhary.github.io/docs/Documents%20(C.V.,%20Resume)/)
+
 <div align="right"> <a href="https://scholar.google.com/citations?user=FmZEBUoAAAAJ&hl=en&oi=ao"><img src="assets/images/gScholar.svg" style="width: 30px;"></a>   <a href="https://www.linkedin.com/in/muditchaudhary/"><img src="assets/images/LinkedIn.png" style="width: 30px;"></a>   <a href="https://www.github.com/muditchaudhary"><img src="assets/images/github.png" style="width: 30px;"></a> <a href="https://dblp.org/pid/283/5772"><img src="assets/images/dblp.png" style="width: 30px;"></a> </div>
