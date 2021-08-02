@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Documents (C.V., Resume, etc.)
+title: Documents (C.V., Resume)
 has_children: false
 nav_order: 4
 ---
