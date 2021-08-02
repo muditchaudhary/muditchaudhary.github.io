@@ -24,6 +24,6 @@ permalink: /
 
 [See Curriculum vitae or résumé](https://muditchaudhary.github.io/docs/Documents%20(C.V.,%20Resume)/)
 
-<script> const toggleDarkMode = document.querySelector('.js-toggle-dark-mode'); jtd.addEvent(toggleDarkMode, 'click', function(){ if (jtd.getTheme() === 'dark') { jtd.setTheme('light'); toggleDarkMode.textContent = 'Preview dark color scheme'; } else { jtd.setTheme('dark'); toggleDarkMode.textContent = 'Return to the light side'; } }); </script>
+<script>const toggleDarkMode = document.querySelector('.js-toggle-dark-mode'); jtd.addEvent(toggleDarkMode, 'click', function(){ if (jtd.getTheme() === 'dark') { jtd.setTheme('light'); toggleDarkMode.textContent = 'Preview dark color scheme'; } else { jtd.setTheme('dark'); toggleDarkMode.textContent = 'Return to the light side'; } }); </script>
 
 <div align="right"> <a href="https://scholar.google.com/citations?user=FmZEBUoAAAAJ&hl=en&oi=ao"><img src="assets/images/gScholar.svg" style="width: 30px;"></a>   <a href="https://www.linkedin.com/in/muditchaudhary/"><img src="assets/images/LinkedIn.png" style="width: 30px;"></a>   <a href="https://www.github.com/muditchaudhary"><img src="assets/images/github.png" style="width: 30px;"></a> <a href="https://dblp.org/pid/283/5772"><img src="assets/images/dblp.png" style="width: 30px;"></a> </div>
