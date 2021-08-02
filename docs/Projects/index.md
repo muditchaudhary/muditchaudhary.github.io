@@ -30,7 +30,7 @@ Food Classification from a small training sample. Project for Huawei AI Cloud De
 __Project Code__: [Github](https://github.com/muditchaudhary/Huawei-AI-Cloud-Developer-Challenge-2019)
 
 ### UTrack
-Android mobile application to keep track of university applications. Features Multi-device data synchronization.  
+Android mobile application to keep track of university applications. Features multi-device data synchronization.  
 __Project Code__: [Github](https://github.com/muditchaudhary/UTrack)
 
 ### NoQueue
