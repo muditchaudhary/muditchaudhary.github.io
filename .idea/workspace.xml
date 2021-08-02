@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="727c0230-7980-4d42-9cbc-03014dd755b9" name="Default Changelist" comment="Add new details">
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+    <list default="true" id="727c0230-7980-4d42-9cbc-03014dd755b9" name="Default Changelist" comment="Add CV link on homepage">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,63 +68,7 @@
       <workItem from="1614757322498" duration="860000" />
       <workItem from="1615367370741" duration="294000" />
       <workItem from="1618148517970" duration="1042000" />
-      <workItem from="1627912311355" duration="504000" />
-    </task>
-    <task id="LOCAL-00098" summary="fix icons">
-      <created>1614602612126</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1614602612126</updated>
-    </task>
-    <task id="LOCAL-00099" summary="fix icons">
-      <created>1614602796659</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1614602796659</updated>
-    </task>
-    <task id="LOCAL-00100" summary="fix icons">
-      <created>1614602949879</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
-      <option name="project" value="LOCAL" />
-      <updated>1614602949879</updated>
-    </task>
-    <task id="LOCAL-00101" summary="fix icons">
-      <created>1614603112509</created>
-      <option name="number" value="00101" />
-      <option name="presentableId" value="LOCAL-00101" />
-      <option name="project" value="LOCAL" />
-      <updated>1614603112510</updated>
-    </task>
-    <task id="LOCAL-00102" summary="fix contact">
-      <created>1614603182471</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1614603182471</updated>
-    </task>
-    <task id="LOCAL-00103" summary="Add footer">
-      <created>1614603352336</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1614603352336</updated>
-    </task>
-    <task id="LOCAL-00104" summary="fix footer">
-      <created>1614603534426</created>
-      <option name="number" value="00104" />
-      <option name="presentableId" value="LOCAL-00104" />
-      <option name="project" value="LOCAL" />
-      <updated>1614603534426</updated>
-    </task>
-    <task id="LOCAL-00105" summary="fix footer">
-      <created>1614603665668</created>
-      <option name="number" value="00105" />
-      <option name="presentableId" value="LOCAL-00105" />
-      <option name="project" value="LOCAL" />
-      <updated>1614603665668</updated>
+      <workItem from="1627912311355" duration="1550000" />
     </task>
     <task id="LOCAL-00106" summary="fix footer">
       <created>1614603719725</created>
@@ -413,7 +357,63 @@
       <option name="project" value="LOCAL" />
       <updated>1627912706760</updated>
     </task>
-    <option name="localTasksCounter" value="147" />
+    <task id="LOCAL-00147" summary="Add new details">
+      <created>1627912820667</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1627912820667</updated>
+    </task>
+    <task id="LOCAL-00148" summary="Formatting changes">
+      <created>1627912874342</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1627912874342</updated>
+    </task>
+    <task id="LOCAL-00149" summary="Formatting changes">
+      <created>1627912915617</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1627912915617</updated>
+    </task>
+    <task id="LOCAL-00150" summary="Change Documents heading">
+      <created>1627913108942</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1627913108942</updated>
+    </task>
+    <task id="LOCAL-00151" summary="Change Documents heading">
+      <created>1627913194806</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1627913194806</updated>
+    </task>
+    <task id="LOCAL-00152" summary="Add CV link on homepage">
+      <created>1627913602541</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1627913602541</updated>
+    </task>
+    <task id="LOCAL-00153" summary="Add CV link on homepage">
+      <created>1627913752315</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1627913752315</updated>
+    </task>
+    <task id="LOCAL-00154" summary="Add CV link on homepage">
+      <created>1627913858871</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1627913858871</updated>
+    </task>
+    <option name="localTasksCounter" value="155" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -432,9 +432,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add dblp" />
-    <MESSAGE value="add CV" />
-    <MESSAGE value="Fix CV" />
     <MESSAGE value="Change Nav Order" />
     <MESSAGE value="Add Poster_DSTC9_AAAI21.pdf" />
     <MESSAGE value="Try dark" />
@@ -457,6 +454,9 @@
     <MESSAGE value="Check old" />
     <MESSAGE value="Revert" />
     <MESSAGE value="Add new details" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add new details" />
+    <MESSAGE value="Formatting changes" />
+    <MESSAGE value="Change Documents heading" />
+    <MESSAGE value="Add CV link on homepage" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add CV link on homepage" />
   </component>
 </project>
