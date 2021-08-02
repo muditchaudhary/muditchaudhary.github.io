@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="727c0230-7980-4d42-9cbc-03014dd755b9" name="Default Changelist" comment="Add CV link on homepage">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="727c0230-7980-4d42-9cbc-03014dd755b9" name="Default Changelist" comment="Add Misc.">
+      <change beforePath="$PROJECT_DIR$/docs/Misc./index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Misc./index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/Misc." />
     <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.path.for.package.stylelint" value="project" />
     <property name="node.js.selected.package.stylelint" value="$PROJECT_DIR$/node_modules/stylelint" />
@@ -41,11 +41,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/Misc." />
       <recent name="$PROJECT_DIR$/docs/Posts" />
       <recent name="$PROJECT_DIR$/docs/Posts/Hyperbolic Embeddings" />
       <recent name="$PROJECT_DIR$/_site" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/assets/documents" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/images" />
@@ -69,20 +69,7 @@
       <workItem from="1615367370741" duration="294000" />
       <workItem from="1618148517970" duration="1042000" />
       <workItem from="1627912311355" duration="1550000" />
-    </task>
-    <task id="LOCAL-00106" summary="fix footer">
-      <created>1614603719725</created>
-      <option name="number" value="00106" />
-      <option name="presentableId" value="LOCAL-00106" />
-      <option name="project" value="LOCAL" />
-      <updated>1614603719725</updated>
-    </task>
-    <task id="LOCAL-00107" summary="add dblp">
-      <created>1614603900429</created>
-      <option name="number" value="00107" />
-      <option name="presentableId" value="LOCAL-00107" />
-      <option name="project" value="LOCAL" />
-      <updated>1614603900429</updated>
+      <workItem from="1627914189397" duration="322000" />
     </task>
     <task id="LOCAL-00108" summary="add CV">
       <created>1614604821983</created>
@@ -413,7 +400,21 @@
       <option name="project" value="LOCAL" />
       <updated>1627913858871</updated>
     </task>
-    <option name="localTasksCounter" value="155" />
+    <task id="LOCAL-00155" summary="Add Misc.">
+      <created>1627914261101</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1627914261102</updated>
+    </task>
+    <task id="LOCAL-00156" summary="Add Misc.">
+      <created>1627914387007</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1627914387007</updated>
+    </task>
+    <option name="localTasksCounter" value="157" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -432,7 +433,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Change Nav Order" />
     <MESSAGE value="Add Poster_DSTC9_AAAI21.pdf" />
     <MESSAGE value="Try dark" />
     <MESSAGE value="Revert white theme" />
@@ -457,6 +457,7 @@
     <MESSAGE value="Formatting changes" />
     <MESSAGE value="Change Documents heading" />
     <MESSAGE value="Add CV link on homepage" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add CV link on homepage" />
+    <MESSAGE value="Add Misc." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Misc." />
   </component>
 </project>
