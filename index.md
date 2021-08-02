@@ -9,10 +9,10 @@ permalink: /
 
 ## Education  
 
-| Institution        | Degree         | Place and Years |
+| Institution        | Degree         | When and Where |
 |:-----------------|:------------------|:------:|
-| University of Massachusetts, Amherst                 | Master of Science <br> <b>Major:</b> Computer Science <br> <b>Concentration:</b> Data Science| Amherst, MA, USA <br> 2021-2023  |  
-| The Chinese University of Hong Kong (CUHK)           | Bachelor of Science <br> <b>Major:</b> Computer Science <br> <b>Specialization: </b> Intelligent Science <br> <b>Minor:</b> Data Analytics and Informatics | Hong Kong <br> 2016-2020  |  
+| University of Massachusetts, Amherst                 | Master of Science <br> <b>Major:</b> Computer Science <br> <b>Concentration:</b> Data Science| <b>Amherst, MA, USA</b> <br> 2021-2023  |  
+| The Chinese University of Hong Kong (CUHK)           | Bachelor of Science <br> <b>Major:</b> Computer Science <br> <b>Specialization: </b> Intelligent Science <br> <b>Minor:</b> Data Analytics and Informatics | <b>Hong Kong</b> <br> 2016-2020  |  
 
 ## Work Experience  
 
