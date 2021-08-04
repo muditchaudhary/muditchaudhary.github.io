@@ -8,7 +8,7 @@ nav_exclude: true
 
 ## The Chinese University of Hong Kong
 **Position:** Full-time Research Assistant  
-**Supervisor:** Prof. Helen Meng  
+**Supervisor:** [Prof. Helen Meng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-meng-mei-ling-helen/)  
 **Location:** Hong Kong  
 **Duration:** August 2020 - August 2021  
 

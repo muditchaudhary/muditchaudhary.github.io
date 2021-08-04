@@ -18,7 +18,7 @@ permalink: /
 
 | Company/Institution        | Position         | Where and When |
 |:-----------------|:------------------|:------:|
-| **The Chinese University of Hong Kong (CUHK)** <br> <i>Supervisor: Prof. Helen Meng</i> <br> [Know More](https://muditchaudhary.github.io/docs/experiences/CUHK_RA_2020)| Full-time Research Assistant | <b>Hong Kong</b> <br> Aug 2020-Aug 2021  |  
+| **The Chinese University of Hong Kong (CUHK)** <br> <i>Supervisor: [Prof. Helen Meng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-meng-mei-ling-helen/)  </i> <br> [Know More](https://muditchaudhary.github.io/docs/experiences/CUHK_RA_2020)| Full-time Research Assistant | <b>Hong Kong</b> <br> Aug 2020-Aug 2021  |  
 | **Logistics and Supply Chain MultiTech (LSCM) R&D Center** <br> <i>Supervisor: Dr. Dorbin Ng </i>| Summer Intern | <b>Hong Kong</b> <br> June 2019-Aug 2019 |  
 | **First Code Academy** | Summer Intern | <b>Hong Kong</b> <br> June 2018-Aug 2018 |
 
