@@ -20,7 +20,7 @@ permalink: /
 |:-----------------|:------------------|:------:|
 | **The Chinese University of Hong Kong (CUHK)** <br> <i>Supervisor: [Prof. Helen Meng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-meng-mei-ling-helen/)  </i> <br> [Learn more](https://muditchaudhary.github.io/docs/experiences/CUHK_RA_2020) | Full-time Research Assistant | <b>Hong Kong</b> <br> Aug 2020<br> &#124; <br> Aug 2021  |  
 | **Logistics and Supply Chain MultiTech (LSCM) R&D Center** <br> <i>Supervisor: [Dr. Dorbin Ng](https://dblp.org/pid/n/TobunDorbinNg.html)  </i> <br> [Learn more](https://muditchaudhary.github.io/docs/experiences/LSCM_Intern_2019)| Summer Intern | <b>Hong Kong</b> <br> June 2019 <br> &#124; <br>Aug 2019 |  
-| **First Code Academy** | Summer Intern | <b>Hong Kong</b> <br> June 2018 <br> &#124; <br> Aug 2018 |
+| **First Code Academy** <br> [Learn more](https://muditchaudhary.github.io/docs/experiences/FirstCode_Intern_2018)| Summer Intern | <b>Hong Kong</b> <br> June 2018 <br> &#124; <br> Aug 2018 |
 
 [See Curriculum vitae and Resume](https://muditchaudhary.github.io/docs/Documents%20(C.V.,%20Resume)/)
 
