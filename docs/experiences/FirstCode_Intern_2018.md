@@ -3,6 +3,7 @@ layout: default
 title: First Code Academy Summer Intern 2018
 parent: Experiences
 nav_exclude: true
+nav_order = 4
 ---
 # Work and Research Experience
 

@@ -3,6 +3,7 @@ layout: default
 title: LSCM Summer Intern 2019
 parent: Experiences
 nav_exclude: true
+nav_order = 2
 ---
 # Work and Research Experience
 
