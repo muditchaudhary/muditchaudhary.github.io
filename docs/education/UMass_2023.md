@@ -13,6 +13,8 @@ nav_exclude: true
 **Duration:** Fall 2021 - Present   
 
 ### Coursework
-* Under Construction
+* **COMPSCI 514:** Algorithms for Data Science
+* **COMPSCI 532:** Systems for Data Science
+* **COMPSCI 682:** Neural Networks: Modern Introduction
 
 [View all Education](https://muditchaudhary.github.io/docs/education/)
