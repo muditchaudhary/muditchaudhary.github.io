@@ -12,9 +12,9 @@ nav_order: 2
 1. TOC
 {:toc}
 
-### Knowledge-based Dialog System
+### Knowledge-grounded Dialog System
 __Description:__ 
-Contributed to the implementation of knowledge-based dialog system submitted for Dialog Systems Technology Challenge 9 (DSTC9). Top 12 Finalists. Published in DSTC9 Workshop at AAAI21.  
+Contributed to the implementation of knowledge-grounded dialog system submitted for Dialog Systems Technology Challenge 9 (DSTC9). Top 12 Finalists. Published in DSTC9 Workshop at AAAI21.  
 __Paper__: [arXiv](https://arxiv.org/abs/2101.06066)  
 __Project Code__: [Github](https://github.com/muditchaudhary/CUHK-DSTC9)
 
