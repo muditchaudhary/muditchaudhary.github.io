@@ -16,7 +16,7 @@ nav_exclude: true
 *	Researched on Dialog Systems, Cross-lingual Hyperbolic Word Embeddings, and NLP
 *	Submitted research papers to major conferences. 1 paper currently under review
 *	Assisted in the development and deployment of a knowledge-grounded dialog system
-*	Assisted in the development of AI teaching curriculum and tools for high school students as part of the ‘CUHK-Jockey Club AI for the Future’ project
+*	Assisted in the development of AI teaching curriculum and tools for 55 high schools in Hong Kong as part of the ‘CUHK-Jockey Club AI for the Future’ project
 *	Communicated with different stakeholders to improve the AI teaching curriculum
 *	Developed, deployed, and scaled Aspect-Based Sentiment Analysis and Voice Conversion deep learning models to production
 *	Conducted API load testing using Apache JMeter
