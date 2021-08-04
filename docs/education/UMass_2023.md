@@ -9,7 +9,7 @@ nav_exclude: true
 ## University of Massachusetts, Amherst
 **Degree:** Master of Science    
 **Major:** Computer Science   
-**Concentration:** Data Science
+**Concentration:** Data Science  
 **Duration:** Fall 2021 - Present   
 
 ### Coursework
