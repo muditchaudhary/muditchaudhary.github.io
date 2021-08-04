@@ -8,11 +8,10 @@ nav_exclude: true
 
 ## The Chinese University of Hong Kong
 **Position:** Full-time Research Assistant
-**Supervisor:** Prof. Helen Meng
-**Location:** Hong Kong
-**Duration:** August 2020 - August 2021
+**Supervisor:** Prof. Helen Meng  
+**Location:** Hong Kong  
+**Duration:** August 2020 - August 2021  
 
-<br>
 #### Responsibilities
 *	Researched on Dialog Systems, Cross-lingual Hyperbolic Word Embeddings, and NLP
 *	Submitted research papers to major conferences. 1 paper currently under review
