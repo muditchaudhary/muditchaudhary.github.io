@@ -7,7 +7,7 @@ nav_exclude: true
 # Work and Research Experience
 
 ## Logistics and Supply Chain MultiTech (LSCM) R&D Center 
-**Position:** Summer Intern 
+**Position:** Summer Intern   
 **Supervisor:** [Dr. Dorbin Ng](https://dblp.org/pid/n/TobunDorbinNg.html)  
 **Location:** Hong Kong  
 **Duration:** June 2019 - August 2019  
