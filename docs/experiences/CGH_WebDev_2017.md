@@ -12,5 +12,6 @@ nav_exclude: true
 **Duration:** August 2017 - September 2017
 
 #### Responsibilities
-*	Comprehensively updated over 104 webpages, which included creating and remodeling the content as well as the design style enhancing the user experience significantly
+*	Comprehensively updated over 104 webpages, which included creating and remodeling the content as well as the design style enhancing the user experience significantly  
+
 [View all Work and Research Experiences](https://muditchaudhary.github.io/docs/experiences/)
