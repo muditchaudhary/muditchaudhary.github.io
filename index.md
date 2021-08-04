@@ -18,8 +18,8 @@ permalink: /
 
 | Company/Institution        | Position         | Where and When |
 |:-----------------|:------------------|:------:|
-| The Chinese University of Hong Kong (CUHK)          | Full-time Research Assistant | <b>Hong Kong</b> <br> Aug 2020-Aug 2021  |  
-| Logistics and Supply Chain MultiTech (LSCM) R&D Center | Summer Intern | <b>Hong Kong</b> <br> June 2019-Aug 2019 |  
+| The Chinese University of Hong Kong (CUHK) <br> <i>Supervisor: Prof. Helen Meng</i>         | Full-time Research Assistant | <b>Hong Kong</b> <br> Aug 2020-Aug 2021  |  
+| Logistics and Supply Chain MultiTech (LSCM) R&D Center <br> <i>Supervisor: Dr. Dorbin Ng </i>| Summer Intern | <b>Hong Kong</b> <br> June 2019-Aug 2019 |  
 | First Code Academy | Summer Intern | <b>Hong Kong</b> <br> June 2018-Aug 2018 |
 
 [See Curriculum vitae and Resume](https://muditchaudhary.github.io/docs/Documents%20(C.V.,%20Resume)/)
