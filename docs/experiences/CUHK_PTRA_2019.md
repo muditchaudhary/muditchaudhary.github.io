@@ -3,7 +3,6 @@ layout: default
 title: CUHK Part-time Research Assistant 2019
 parent: Experiences
 nav_exclude: true
-nav_order = 3
 ---
 # Work and Research Experience
 
