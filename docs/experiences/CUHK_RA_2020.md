@@ -1,18 +1,18 @@
 ---
 layout: default
-title: CUHK_RA_2020
-parent: Experience
+title: CUHK Research Assistant 2020
+parent: Experiences
 nav_exclude: true
 ---
 # Work and Research Experience
 
 ## The Chinese University of Hong Kong
-### Position: Full-time Research Assistant
-### Supervisor: Prof. Helen Meng
-### Hong Kong
-### August 2020 - August 2021
+**Position:** Full-time Research Assistant
+**Supervisor:** Prof. Helen Meng
+**Location:** Hong Kong
+**Duration:** August 2020 - August 2021
 
-<br><br>
+<br>
 #### Responsibilities
 *	Researched on Dialog Systems, Cross-lingual Hyperbolic Word Embeddings, and NLP
 *	Submitted research papers to major conferences. 1 paper currently under review
@@ -33,3 +33,4 @@ __Authors:__ Mudit Chaudhary, Borislav Dzodzo, Sida Huang, Chun Hei Lo, Mingzhi 
 __Venue:__  [DSTC9 Workshop at AAAI-21](https://dstc9.dstc.community/aaai-21-workshop)  
 __Links:__ [arXiv](https://arxiv.org/abs/2101.06066), [dblp](https://dblp.org/rec/journals/corr/abs-2101-06066), [Poster Presentation](/assets/documents/Poster_DSTC9_AAAI21.pdf)
 
+[View all Work and Research Experiences](https://muditchaudhary.github.io/docs/experiences/)
