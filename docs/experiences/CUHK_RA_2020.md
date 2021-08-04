@@ -7,7 +7,7 @@ nav_exclude: true
 # Work and Research Experience
 
 ## The Chinese University of Hong Kong
-**Position:** Full-time Research Assistant
+**Position:** Full-time Research Assistant  
 **Supervisor:** Prof. Helen Meng  
 **Location:** Hong Kong  
 **Duration:** August 2020 - August 2021  
