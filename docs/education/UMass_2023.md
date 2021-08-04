@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Chinese University of Hong Kong
+title: University of Massachusetts, Amherst
 parent: Education
 nav_exclude: true
 ---
