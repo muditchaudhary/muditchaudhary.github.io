@@ -1,6 +1,6 @@
 ---
 layout: default
-title: First Code Academy Summer Intern 2018
+title: 2018 First Code Academy Summer Intern
 parent: Experiences
 nav_exclude: true
 ---

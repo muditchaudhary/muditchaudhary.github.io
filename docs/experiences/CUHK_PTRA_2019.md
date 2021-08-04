@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CUHK Part-time Research Assistant 2019
+title: 2019 CUHK Part-time Research Assistant
 parent: Experiences
 nav_exclude: true
 ---

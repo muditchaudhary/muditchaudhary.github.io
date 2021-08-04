@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LSCM Summer Intern 2019
+title: 2019 LSCM Summer Intern
 parent: Experiences
 nav_exclude: true
 ---

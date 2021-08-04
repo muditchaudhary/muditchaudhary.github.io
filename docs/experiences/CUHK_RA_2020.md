@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CUHK Research Assistant 2020
+title: 2020 CUHK Research Assistant
 parent: Experiences
 nav_exclude: true
 ---
