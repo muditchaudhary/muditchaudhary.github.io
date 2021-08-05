@@ -5,7 +5,6 @@ nav_order: 1
 description: "Mudit Chaudhary's personal website"
 permalink: /
 ---
-<meta property='og:image' content="./me.png"/>
 
 |<img src="./me.png" alt="Me" align="left" style="padding: 0px; width: 1000px;" /> | <b><font size="5">Mudit Chaudhary</font></b> <br> Incoming graduate student at UMass Amherst. Looking for Summer 2022 Internships in the field of AI/ML (NLP) Research and Engineering. <br> <br> Former Research Assistant at the Chinese University of Hong Kong. Research interests include NLP (Dialog Systems, Word Embeddings), and Computer Vision (Object Detection Models). <br> <br> Experienced in machine learning model development & serving, API development and scaling to production.|  
 
