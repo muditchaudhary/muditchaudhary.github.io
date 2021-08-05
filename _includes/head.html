@@ -1,15 +1,15 @@
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-  <meta property='og:image' content="./me.jpg"/>
-  <meta property='og:image' content="../me.jpg"/>
-  <meta name='image' content="./me.jpg"/>
-  <meta name='image' content="../me.jpg"/>
   {% unless site.plugins contains "jekyll-seo-tag" %}
     <title>{{ page.title }} - {{ site.title }}</title>
 
     {% if page.description %}
       <meta name="Description" content="{{ page.description }}">
+    {% endif %}
+    {% if page.image %}
+      <meta property='og:image' content="{{ page.image }}"/>
+      <meta name='og:image' content="{{page.image}}"/>
     {% endif %}
   {% endunless %}
 
