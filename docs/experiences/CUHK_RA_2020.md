@@ -13,10 +13,11 @@ nav_exclude: true
 **Duration:** August 2020 - August 2021  
 
 #### Responsibilities
-*	Researched on Dialog Systems, Cross-lingual Hyperbolic Word Embeddings, and NLP
-*	Submitted research papers to major conferences. 1 paper currently under review
-*	Assisted in the development and deployment of a knowledge-grounded dialog system
-*	Assisted in the development of AI teaching curriculum and tools for 55 high schools in Hong Kong as part of the ‘CUHK-Jockey Club AI for the Future’ project
+*	Researched on Dialog Systems and Cross-lingual Hyperbolic Word Embeddings in NLP, and submitted research papers to major conferences
+*	Participated in the 9th Dialog System Technology Challenge (DSTC9) and qualified as top-12 finalists with a workshop paper accepted at DSTC9 workshop at AAAI-2021
+*   Assisted in the development and deployment of a knowledge-grounded dialog system which extracts information from an external unstructured knowledge for user queries outside the scope of structured database/APIs
+*	Researched and developed cross-lingual word representations in hyperbolic space with potential uses in downstream NLP tasks such as translation and cross-lingual lexical entailment
+*   Assisted in the development of AI teaching curriculum and tools for 55 high schools in Hong Kong as part of the ‘CUHK-Jockey Club AI for the Future’ project
 *	Communicated with different stakeholders to improve the AI teaching curriculum
 *	Developed, deployed, and scaled Aspect-Based Sentiment Analysis and Voice Conversion deep learning models to production
 *	Conducted API load testing using Apache JMeter
