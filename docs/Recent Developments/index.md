@@ -8,6 +8,8 @@ nav_order: 5
 # Recent Developments  
 
 ### 2021
+* Started credit-bearing research at Information Extraction and Synthesis Laboratory at UMass
+* Started graduate school at the University of Massachusetts, Amherst (MS in CS Fall 2021)
 * Poster Presentation at Dialog State Technology Challenge 9 (DSTC9) Workshop at AAAI-21 Conference  
 
 ### 2020
