@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="727c0230-7980-4d42-9cbc-03014dd755b9" name="Default Changelist" comment="Homepage heading update">
+    <list default="true" id="727c0230-7980-4d42-9cbc-03014dd755b9" name="Default Changelist" comment="Add recent developments">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/Publications/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Publications/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/education/UMass_2023.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/education/UMass_2023.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,21 +80,7 @@
       <workItem from="1628128796460" duration="2388000" />
       <workItem from="1628145264508" duration="950000" />
       <workItem from="1630278433526" duration="830000" />
-      <workItem from="1631722075052" duration="836000" />
-    </task>
-    <task id="LOCAL-00173" summary="Add supervisors to the page">
-      <created>1628058716968</created>
-      <option name="number" value="00173" />
-      <option name="presentableId" value="LOCAL-00173" />
-      <option name="project" value="LOCAL" />
-      <updated>1628058716968</updated>
-    </task>
-    <task id="LOCAL-00174" summary="Bold institution names">
-      <created>1628058883600</created>
-      <option name="number" value="00174" />
-      <option name="presentableId" value="LOCAL-00174" />
-      <option name="project" value="LOCAL" />
-      <updated>1628058883600</updated>
+      <workItem from="1631722075052" duration="1242000" />
     </task>
     <task id="LOCAL-00175" summary="Add Know more link for CUHK RA">
       <created>1628059682185</created>
@@ -423,7 +411,21 @@
       <option name="project" value="LOCAL" />
       <updated>1631722789145</updated>
     </task>
-    <option name="localTasksCounter" value="222" />
+    <task id="LOCAL-00222" summary="Add pre-print publication">
+      <created>1631722930138</created>
+      <option name="number" value="00222" />
+      <option name="presentableId" value="LOCAL-00222" />
+      <option name="project" value="LOCAL" />
+      <updated>1631722930138</updated>
+    </task>
+    <task id="LOCAL-00223" summary="Add recent developments">
+      <created>1631723066677</created>
+      <option name="number" value="00223" />
+      <option name="presentableId" value="LOCAL-00223" />
+      <option name="project" value="LOCAL" />
+      <updated>1631723066678</updated>
+    </task>
+    <option name="localTasksCounter" value="224" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -442,8 +444,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add new CV" />
-    <MESSAGE value="Add new CV and Resume" />
     <MESSAGE value="Add supervisors to the page" />
     <MESSAGE value="Bold institution names" />
     <MESSAGE value="Add Know more link for CUHK RA" />
@@ -467,6 +467,8 @@
     <MESSAGE value="Photo and RA experience update" />
     <MESSAGE value="Experience, CV update" />
     <MESSAGE value="Homepage heading update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homepage heading update" />
+    <MESSAGE value="Add pre-print publication" />
+    <MESSAGE value="Add recent developments" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add recent developments" />
   </component>
 </project>

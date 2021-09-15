@@ -15,5 +15,5 @@ __Links:__ [arXiv](https://arxiv.org/abs/2101.06066), [dblp](https://dblp.org/re
   
 ## Pre-print
 - __Countering Online Hate Speech: An NLP Perspective__  
-__Authors:__ Mudit Chaudhary, Chandni Saxena, Helen Meng
+__Authors:__ Mudit Chaudhary, Chandni Saxena, Helen Meng  
 __Links:__ [arXiv](https://arxiv.org/abs/2109.02941)

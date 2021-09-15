@@ -13,7 +13,7 @@ nav_exclude: true
 **Duration:** Fall 2021 - Present   
 
 ### Coursework
-* **COMPSCI 514:** Algorithms for Data Science
+* **COMPSCI 596:** Independent Study on 'Case-based Reasoning for Question Answering on Knowledge base and Text'
 * **COMPSCI 532:** Systems for Data Science
 * **COMPSCI 682:** Neural Networks: Modern Introduction
 
