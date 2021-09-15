@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="727c0230-7980-4d42-9cbc-03014dd755b9" name="Default Changelist" comment="Photo and RA experience update">
-      <change afterPath="$PROJECT_DIR$/assets/documents/Resume_Applied_Science_15Sept2021.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/documents/Resume_SDE_15Sept2021.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/experiences/UMass_GSR_Fall2021.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/documents/Mudit_CV_4Aug2021.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/documents/Mudit_Resume_4Aug2021.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Documents (C.V., Resume)/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Documents (C.V., Resume)/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+    <list default="true" id="727c0230-7980-4d42-9cbc-03014dd755b9" name="Default Changelist" comment="Homepage heading update">
+      <change beforePath="$PROJECT_DIR$/docs/Publications/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Publications/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,21 +78,7 @@
       <workItem from="1628128796460" duration="2388000" />
       <workItem from="1628145264508" duration="950000" />
       <workItem from="1630278433526" duration="830000" />
-      <workItem from="1631722075052" duration="527000" />
-    </task>
-    <task id="LOCAL-00171" summary="Add new CV and Resume">
-      <created>1628046600178</created>
-      <option name="number" value="00171" />
-      <option name="presentableId" value="LOCAL-00171" />
-      <option name="project" value="LOCAL" />
-      <updated>1628046600178</updated>
-    </task>
-    <task id="LOCAL-00172" summary="Add new CV and Resume">
-      <created>1628046732029</created>
-      <option name="number" value="00172" />
-      <option name="presentableId" value="LOCAL-00172" />
-      <option name="project" value="LOCAL" />
-      <updated>1628046732029</updated>
+      <workItem from="1631722075052" duration="836000" />
     </task>
     <task id="LOCAL-00173" summary="Add supervisors to the page">
       <created>1628058716968</created>
@@ -430,7 +409,21 @@
       <option name="project" value="LOCAL" />
       <updated>1630279142212</updated>
     </task>
-    <option name="localTasksCounter" value="220" />
+    <task id="LOCAL-00220" summary="Experience, CV update">
+      <created>1631722616464</created>
+      <option name="number" value="00220" />
+      <option name="presentableId" value="LOCAL-00220" />
+      <option name="project" value="LOCAL" />
+      <updated>1631722616465</updated>
+    </task>
+    <task id="LOCAL-00221" summary="Homepage heading update">
+      <created>1631722789145</created>
+      <option name="number" value="00221" />
+      <option name="presentableId" value="LOCAL-00221" />
+      <option name="project" value="LOCAL" />
+      <updated>1631722789145</updated>
+    </task>
+    <option name="localTasksCounter" value="222" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -449,8 +442,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add more projects" />
-    <MESSAGE value="Add Dark mode" />
     <MESSAGE value="Add new CV" />
     <MESSAGE value="Add new CV and Resume" />
     <MESSAGE value="Add supervisors to the page" />
@@ -474,6 +465,8 @@
     <MESSAGE value="Add meta" />
     <MESSAGE value="Sort courses cuhk" />
     <MESSAGE value="Photo and RA experience update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Photo and RA experience update" />
+    <MESSAGE value="Experience, CV update" />
+    <MESSAGE value="Homepage heading update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homepage heading update" />
   </component>
 </project>
