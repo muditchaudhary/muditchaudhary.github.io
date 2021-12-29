@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="727c0230-7980-4d42-9cbc-03014dd755b9" name="Default Changelist" comment="Change courses and formatting changes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/me.jpg" beforeDir="false" />
-    </list>
+    <list default="true" id="727c0230-7980-4d42-9cbc-03014dd755b9" name="Default Changelist" comment="Add new image | Modify Experience | Add CGPA" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,21 +78,7 @@
       <workItem from="1630278433526" duration="830000" />
       <workItem from="1631722075052" duration="1297000" />
       <workItem from="1631803853796" duration="121000" />
-      <workItem from="1640782240353" duration="46000" />
-    </task>
-    <task id="LOCAL-00176" summary="Refine experiences">
-      <created>1628059922396</created>
-      <option name="number" value="00176" />
-      <option name="presentableId" value="LOCAL-00176" />
-      <option name="project" value="LOCAL" />
-      <updated>1628059922396</updated>
-    </task>
-    <task id="LOCAL-00177" summary="Refine experiences">
-      <created>1628060072546</created>
-      <option name="number" value="00177" />
-      <option name="presentableId" value="LOCAL-00177" />
-      <option name="project" value="LOCAL" />
-      <updated>1628060072546</updated>
+      <workItem from="1640782240353" duration="350000" />
     </task>
     <task id="LOCAL-00178" summary="Refine experiences">
       <created>1628060180298</created>
@@ -427,7 +409,21 @@
       <option name="project" value="LOCAL" />
       <updated>1631723346457</updated>
     </task>
-    <option name="localTasksCounter" value="225" />
+    <task id="LOCAL-00225" summary="Add new image">
+      <created>1640782303338</created>
+      <option name="number" value="00225" />
+      <option name="presentableId" value="LOCAL-00225" />
+      <option name="project" value="LOCAL" />
+      <updated>1640782303339</updated>
+    </task>
+    <task id="LOCAL-00226" summary="Add new image | Modify Experience | Add CGPA">
+      <created>1640782582287</created>
+      <option name="number" value="00226" />
+      <option name="presentableId" value="LOCAL-00226" />
+      <option name="project" value="LOCAL" />
+      <updated>1640782582287</updated>
+    </task>
+    <option name="localTasksCounter" value="227" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -446,8 +442,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Bold institution names" />
-    <MESSAGE value="Add Know more link for CUHK RA" />
     <MESSAGE value="Refine experiences" />
     <MESSAGE value="Add new experiences" />
     <MESSAGE value="Refine date format" />
@@ -471,6 +465,8 @@
     <MESSAGE value="Add pre-print publication" />
     <MESSAGE value="Add recent developments" />
     <MESSAGE value="Change courses and formatting changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change courses and formatting changes" />
+    <MESSAGE value="Add new image" />
+    <MESSAGE value="Add new image | Modify Experience | Add CGPA" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add new image | Modify Experience | Add CGPA" />
   </component>
 </project>

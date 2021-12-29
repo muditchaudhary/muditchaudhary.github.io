@@ -6,5 +6,5 @@ nav_order: 4
 ---
 # Documents  
 
-* [Resume for Applied Science (1 page)](/assets/documents/Resume_Applied_Science_15Sept2021.pdf) [Updated: 15-September-2021]
-* [Resume for SDE (1 page)](/assets/documents/Resume_SDE_15Sept2021.pdf) [Updated: 15-September-2021]
+* [Resume for Applied Science (1 page)](/assets/documents/Resume_Applied_Science_28Dec2021.pdf) [Updated: 28-December-2021]
+* [Resume for SDE (1 page)](/assets/documents/Resume_SDE_28Dec2021.pdf) [Updated: 28-December-2021]
