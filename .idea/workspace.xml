@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="727c0230-7980-4d42-9cbc-03014dd755b9" name="Default Changelist" comment="Add new image | Modify Experience | Add CGPA" />
+    <list default="true" id="727c0230-7980-4d42-9cbc-03014dd755b9" name="Default Changelist" comment="Add New CV docs">
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,21 +80,7 @@
       <workItem from="1630278433526" duration="830000" />
       <workItem from="1631722075052" duration="1297000" />
       <workItem from="1631803853796" duration="121000" />
-      <workItem from="1640782240353" duration="350000" />
-    </task>
-    <task id="LOCAL-00178" summary="Refine experiences">
-      <created>1628060180298</created>
-      <option name="number" value="00178" />
-      <option name="presentableId" value="LOCAL-00178" />
-      <option name="project" value="LOCAL" />
-      <updated>1628060180298</updated>
-    </task>
-    <task id="LOCAL-00179" summary="Refine experiences">
-      <created>1628060261229</created>
-      <option name="number" value="00179" />
-      <option name="presentableId" value="LOCAL-00179" />
-      <option name="project" value="LOCAL" />
-      <updated>1628060261229</updated>
+      <workItem from="1640782240353" duration="719000" />
     </task>
     <task id="LOCAL-00180" summary="Refine experiences">
       <created>1628060472310</created>
@@ -423,7 +411,21 @@
       <option name="project" value="LOCAL" />
       <updated>1640782582287</updated>
     </task>
-    <option name="localTasksCounter" value="227" />
+    <task id="LOCAL-00227" summary="Update CV">
+      <created>1640782801495</created>
+      <option name="number" value="00227" />
+      <option name="presentableId" value="LOCAL-00227" />
+      <option name="project" value="LOCAL" />
+      <updated>1640782801495</updated>
+    </task>
+    <task id="LOCAL-00228" summary="Add New CV docs">
+      <created>1640782868286</created>
+      <option name="number" value="00228" />
+      <option name="presentableId" value="LOCAL-00228" />
+      <option name="project" value="LOCAL" />
+      <updated>1640782868286</updated>
+    </task>
+    <option name="localTasksCounter" value="229" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -442,8 +444,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Refine experiences" />
-    <MESSAGE value="Add new experiences" />
     <MESSAGE value="Refine date format" />
     <MESSAGE value="Add new experience" />
     <MESSAGE value="Refine work experience index" />
@@ -467,6 +467,8 @@
     <MESSAGE value="Change courses and formatting changes" />
     <MESSAGE value="Add new image" />
     <MESSAGE value="Add new image | Modify Experience | Add CGPA" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add new image | Modify Experience | Add CGPA" />
+    <MESSAGE value="Update CV" />
+    <MESSAGE value="Add New CV docs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add New CV docs" />
   </component>
 </project>
