@@ -12,7 +12,7 @@ permalink: /
 
 | Institution        | Degree         | Where and When |
 |:-----------------|:------------------|:------:|
-| **University of Massachusetts, Amherst**   <br> [Learn more](https://muditchaudhary.github.io/docs/education/UMass_2023)                | Master of Science <br> <b>Major:</b> Computer Science <br> <b>Concentration:</b> Data Science| <b>Amherst, MA, USA</b> <br> Sep 2021 <br> &#124; <br> May 2023  |  
+| **University of Massachusetts, Amherst**   <br> [Learn more](https://muditchaudhary.github.io/docs/education/UMass_2023)                | Master of Science <br> <b>Major:</b> Computer Science <br> <b>Concentration:</b> Data Science<br> <b>CGPA:</b> 4.00/4.00| <b>Amherst, MA, USA</b> <br> Sep 2021 <br> &#124; <br> May 2023  |  
 | **The Chinese University of Hong Kong (CUHK)**  <br> [Learn more](https://muditchaudhary.github.io/docs/education/CUHK_2020)          | Bachelor of Science <br> <b>Major:</b> Computer Science <br> <b>Specialization: </b> Intelligent Science <br> <b>Minor:</b> Data Analytics and Informatics | <b>Hong Kong</b> <br> Sep 2016 <br> &#124; <br> May 2020  |  
 
 ## Work and Research Experience  
