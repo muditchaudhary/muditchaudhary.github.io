@@ -19,6 +19,7 @@ permalink: /
 
 | Company/Institution        | Position         | Where and When |
 |:-----------------|:------------------|:------:|
+| **The Janssen Pharmaceutical Companies of Johnson & Johnson** <br> | Data Science NLP Graduate Intern | <b>MA, USA</b> <br> May 2022<br> &#124; <br> Present  |
 | **University of Massachusetts Amherst** <br> <i>Supervisors: [Prof. Andrew McCallum](https://people.cs.umass.edu/~mccallum/) and [June Thai](https://people.cs.umass.edu/~dthai/) </i> <br> [Learn more](https://muditchaudhary.github.io/docs/experiences/UMass_GSR_Fall2021) | Graduate Student Researcher | <b>MA, USA</b> <br> Sep 2021<br> &#124; <br> Present  | 
 | **The Chinese University of Hong Kong (CUHK)** <br> <i>Supervisor: [Prof. Helen Meng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-meng-mei-ling-helen/)  </i> <br> [Learn more](https://muditchaudhary.github.io/docs/experiences/CUHK_RA_2020) | Full-time Research Assistant | <b>Hong Kong</b> <br> Aug 2020<br> &#124; <br> Aug 2021  |  
 | **Logistics and Supply Chain MultiTech (LSCM) R&D Center** <br> <i>Supervisor: [Dr. Dorbin Ng](https://dblp.org/pid/n/TobunDorbinNg.html)  </i> <br> [Learn more](https://muditchaudhary.github.io/docs/experiences/LSCM_Intern_2019)| Summer Intern | <b>Hong Kong</b> <br> June 2019 <br> &#124; <br>Aug 2019 |  

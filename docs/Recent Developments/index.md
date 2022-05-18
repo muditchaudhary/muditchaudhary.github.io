@@ -7,6 +7,10 @@ nav_order: 5
 
 # Recent Developments  
 
+### 2022
+* Joined Janssen Pharmaceutical Companies of Johnson & Johnson as a Data Science NLP Graduate Intern for Summer 2022.
+ 
+
 ### 2021
 * Started credit-bearing research at Information Extraction and Synthesis Laboratory at UMass
 * Started graduate school at the University of Massachusetts, Amherst (MS in CS Fall 2021)
