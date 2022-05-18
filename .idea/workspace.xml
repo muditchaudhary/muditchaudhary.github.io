@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="727c0230-7980-4d42-9cbc-03014dd755b9" name="Default Changelist" comment="Update metaimage">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="727c0230-7980-4d42-9cbc-03014dd755b9" name="Default Changelist" comment="Update desc">
+      <change beforePath="$PROJECT_DIR$/docs/Contact/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Contact/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/experiences" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.path.for.package.stylelint" value="project" />
     <property name="node.js.selected.package.stylelint" value="$PROJECT_DIR$/node_modules/stylelint" />
@@ -81,13 +81,7 @@
       <workItem from="1631722075052" duration="1297000" />
       <workItem from="1631803853796" duration="121000" />
       <workItem from="1640782240353" duration="1590000" />
-    </task>
-    <task id="LOCAL-00182" summary="Refine experiences">
-      <created>1628060924959</created>
-      <option name="number" value="00182" />
-      <option name="presentableId" value="LOCAL-00182" />
-      <option name="project" value="LOCAL" />
-      <updated>1628060924959</updated>
+      <workItem from="1652893180689" duration="81000" />
     </task>
     <task id="LOCAL-00183" summary="Refine experiences">
       <created>1628061108579</created>
@@ -425,7 +419,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640783166128</updated>
     </task>
-    <option name="localTasksCounter" value="231" />
+    <task id="LOCAL-00231" summary="Update desc">
+      <created>1652893246480</created>
+      <option name="number" value="00231" />
+      <option name="presentableId" value="LOCAL-00231" />
+      <option name="project" value="LOCAL" />
+      <updated>1652893246480</updated>
+    </task>
+    <option name="localTasksCounter" value="232" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -444,7 +445,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add new experience" />
     <MESSAGE value="Refine work experience index" />
     <MESSAGE value="Refine work experience" />
     <MESSAGE value="Remove music from navigation" />
@@ -469,6 +469,7 @@
     <MESSAGE value="Update CV" />
     <MESSAGE value="Add New CV docs" />
     <MESSAGE value="Update metaimage" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update metaimage" />
+    <MESSAGE value="Update desc" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update desc" />
   </component>
 </project>
