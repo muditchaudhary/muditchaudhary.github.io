@@ -5,6 +5,11 @@ has_children: false
 nav_order: 3
 ---
 # Publications  
+## Conference Papers 
+- __Machine reading comprehension using case-based reasoning__  
+__Authors:__ Dung Thai, Dhruv Agarwal, Mudit Chaudhary, Wenlong Zhao, Rajarshi Das, Jay Yoon Lee, Hannaneh Hajishirzi, Manzil Zaheer, Andrew McCallum
+__Venue:__ EMNLP Findings 2023
+__Links:__ [ACL Anthology](https://aclanthology.org/2023.findings-emnlp.564/)
 
 ## Workshop Papers
 
