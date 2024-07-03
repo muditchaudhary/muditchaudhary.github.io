@@ -3,6 +3,7 @@ layout: default
 title: Recent Developments
 has_children: false
 nav_order: 5
+nav_exclude: true
 ---
 
 # Recent Developments  
