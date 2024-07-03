@@ -6,7 +6,7 @@ description: "Mudit Chaudhary's personal website"
 permalink: /
 ---
 
-|<img src="./me.jpeg" alt="Me" align="left" style="padding: 0px; width: 1000px;" /> | <b><font size="5">Mudit Chaudhary</font></b> <br> Manager Search Solutions at Johnson & Johnson Innovative Medicine student. <br> <br> Former Research Assistant at the Chinese University of Hong Kong. Research interests include NLP (Search Engines, Dialog Systems, Representation Learning), and Computer Vision (Object Detection Models). <br> <br> Experienced in machine learning model development & serving, API development and scaling to production.|  
+|<img src="./me.jpeg" alt="Me" align="left" style="padding: 0px; width: 1000px;" /> | <b><font size="5">Mudit Chaudhary</font></b> <br> Manager Search Solutions at Johnson & Johnson Innovative Medicine. <br> <br> Former Research Assistant at the Chinese University of Hong Kong. Research interests include NLP (Search Engines, Dialog Systems, Representation Learning), and Computer Vision (Object Detection Models). <br> <br> Experienced in machine learning model development & serving, API development and scaling to production.|  
 
 ## Education  
 
@@ -27,5 +27,9 @@ permalink: /
 | **The Chinese University of Hong Kong** <br> <i> Supervisor: [Prof. Bei Yu](http://www.cse.cuhk.edu.hk/~byu/) </i> <br> [Learn more](https://muditchaudhary.github.io/docs/experiences/CUHK_PTRA_2019)| Part-time Research Assistant | <b>Hong Kong</b> <br> Feb 2019 <br> &#124; <br> Aug 2019 |
 | **First Code Academy** <br> [Learn more](https://muditchaudhary.github.io/docs/experiences/FirstCode_Intern_2018)| Summer Intern | <b>Hong Kong</b> <br> Jun 2018 <br> &#124; <br> Aug 2018 |
 | **Centre for Global Health, The Chinese University of Hong Kong** <br> [Learn more](https://muditchaudhary.github.io/docs/experiences/CGH_WebDev_2017)| Front-end Web Developer | <b>Hong Kong</b> <br> Aug 2017 <br> &#124; <br> Sep 2017 |
+
+## Service  
+1. Reviewer ACL ICON 2023  
+2. Reviewer ICONIP 2023  
 
 <div align="right"> <a href="https://scholar.google.com/citations?user=FmZEBUoAAAAJ&hl=en&oi=ao"><img src="assets/images/gScholar.svg" style="width: 30px;"></a>   <a href="https://www.linkedin.com/in/muditchaudhary/"><img src="assets/images/LinkedIn.png" style="width: 30px;"></a>   <a href="https://www.github.com/muditchaudhary"><img src="assets/images/github.png" style="width: 30px;"></a> <a href="https://dblp.org/pid/283/5772"><img src="assets/images/dblp.png" style="width: 30px;"></a> </div>
