@@ -13,7 +13,7 @@ permalink: /
 
 | Company/Institution        | Position         | Where and When |
 |:-----------------|:------------------|:------:|
-| **Johnson & Johnson Innovative Medicine** <br> | Manager, Search Solutions <br><sub>[Individial Contributor; Responsibilities align with Data Scientist and ML Engineer role]</sub> | <b>Titusville,NJ, USA</b> <br> July 2023<br> &#124; <br> Present  |
+| **Johnson & Johnson Innovative Medicine** <br> | Manager, Search Solutions <br><sub>[Individual Contributor; Responsibilities align with Data Scientist and ML Engineer role]</sub> | <b>Titusville,NJ, USA</b> <br> July 2023<br> &#124; <br> Present  |
 | **Johnson & Johnson Innovative Medicine** <br> | Data Science NLP Graduate Intern | <b>MA, USA</b> <br> May 2022<br> &#124; <br> August 2022  |
 | **IESL Lab @ University of Massachusetts Amherst** <br> <i>Supervisors: [Prof. Andrew McCallum](https://people.cs.umass.edu/~mccallum/), [June Thai](https://people.cs.umass.edu/~dthai/) and [Rajarshi Das](https://rajarshd.github.io)</i> <br> [Learn more](https://muditchaudhary.github.io/docs/experiences/UMass_GSR_Fall2021) | Student Researcher | <b>MA, USA</b> <br> Sep 2021<br> &#124; <br> May 2023  | 
 | **The Chinese University of Hong Kong (CUHK)** <br> <i>Supervisor: [Prof. Helen Meng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-meng-mei-ling-helen/)  </i> <br> [Learn more](https://muditchaudhary.github.io/docs/experiences/CUHK_RA_2020) | Full-time Researcher | <b>Hong Kong</b> <br> Aug 2020<br> &#124; <br> Aug 2021  |  
