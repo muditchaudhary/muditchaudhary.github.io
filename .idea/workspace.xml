@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="727c0230-7980-4d42-9cbc-03014dd755b9" name="Default Changelist" comment="Update contact">
-      <change afterPath="$PROJECT_DIR$/docs/NegativeFeedback/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Publications/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Publications/index.md" afterDir="false" />
+    <list default="true" id="727c0230-7980-4d42-9cbc-03014dd755b9" name="Default Changelist" comment="Add Negative Feedback Project link">
+      <change beforePath="$PROJECT_DIR$/docs/IterativeNegativeFeedback/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/IterativeNegativeFeedback/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,13 +26,16 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="1p8cLDsFhnrqxwmT1QO1VBD4Zc7" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -84,14 +85,7 @@
       <workItem from="1631803853796" duration="121000" />
       <workItem from="1640782240353" duration="1590000" />
       <workItem from="1652893180689" duration="528000" />
-      <workItem from="1727621489441" duration="653000" />
-    </task>
-    <task id="LOCAL-00184" summary="Refine experiences">
-      <created>1628061291062</created>
-      <option name="number" value="00184" />
-      <option name="presentableId" value="LOCAL-00184" />
-      <option name="project" value="LOCAL" />
-      <updated>1628061291062</updated>
+      <workItem from="1727621489441" duration="957000" />
     </task>
     <task id="LOCAL-00185" summary="Add new experiences">
       <created>1628061670614</created>
@@ -429,7 +423,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652893267484</updated>
     </task>
-    <option name="localTasksCounter" value="233" />
+    <task id="LOCAL-00233" summary="Add Negative Feedback Project link">
+      <created>1727622315840</created>
+      <option name="number" value="00233" />
+      <option name="presentableId" value="LOCAL-00233" />
+      <option name="project" value="LOCAL" />
+      <updated>1727622315841</updated>
+    </task>
+    <option name="localTasksCounter" value="234" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -447,7 +448,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Refine work experience" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Remove music from navigation" />
     <MESSAGE value="Modify project descriptions" />
     <MESSAGE value="Add education learn more" />
@@ -472,6 +473,7 @@
     <MESSAGE value="Update metaimage" />
     <MESSAGE value="Update desc" />
     <MESSAGE value="Update contact" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update contact" />
+    <MESSAGE value="Add Negative Feedback Project link" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Negative Feedback Project link" />
   </component>
 </project>

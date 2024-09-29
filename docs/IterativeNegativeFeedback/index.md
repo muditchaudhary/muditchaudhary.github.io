@@ -1,8 +1,8 @@
 ---
 layout: default
-title: F
+title: Fine Tuning Query Representation using Iterative Negative Feedback
 has_children: false
-nav_order: 4
+nav_exclude: true
 ---
 
 ## Fine Tuning Query Representation using Iterative Negative Feedback
