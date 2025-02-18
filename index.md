@@ -6,7 +6,7 @@ description: "Mudit Chaudhary's personal website"
 permalink: /
 ---
 
-|<img src="./me.jpeg" alt="Me" align="left" style="padding: 0px; width: 1000px;" /> | <b><font size="5">Mudit Chaudhary</font></b> <br> Manager, Search Solutions at Johnson & Johnson Innovative Medicine. <br> <br> Research interests include NLP (Search Engines, Dialog Systems, Representation Learning), and Computer Vision (Object Detection Models). <br> <br> Experienced in machine learning model development & serving, API development and scaling to production.|  
+|<img src="./me.jpeg" alt="Me" align="left" style="padding: 0px; width: 1000px;" /> | <b><font size="5">Mudit Chaudhary</font></b> <br> SDE at Amazon Web Services (AWS) |  
 
 
 ## Work and Research Experience  
